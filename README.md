@@ -45,7 +45,7 @@ How to create a financial marketplace for 500,000 people 💸. Part II (technica
 
 ## AWESOME lists and CheatSheets
 
-awesome-kubernetes/README.md at master · ramitsurana/awesome-kubernetes · GitHub [github.com](https://github.com/ramitsurana/awesome-kubernetes/blob/master/README.md)
+Awesome Kubernetes Resources [github.com](https://github.com/tomhuang12/awesome-k8s-resources)
 
 Awesome Prometheus alerts | Collection of alerting rules [awesome-prometheus-alerts.grep.to](https://awesome-prometheus-alerts.grep.to/)
 

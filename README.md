@@ -1,5 +1,32 @@
 # DevOps &amp; SRE Library
 
+A library of articles and tools bookmarked by me for the years of working with DevOps practises.
+
+Table of content:
+
+* [Architecture](#Architecture)
+
+* [AWESOME lists and CheatSheets](#AWESOME-lists-and-CheatSheets)
+
+* [Cloudnative](#Cloudnative)
+
+* [Kubernetes general](#Kubernetes-general)
+
+* [Kubernetes Operators and AddOns](#Kubernetes-Operators-and-AddOns)
+
+* [CI/CD and IaC](#CI/CD-and-IaC)
+
+* [Observability](#Observability)
+
+* [Security](#Security)
+
+* [SRE](#SRE)
+
+* [Serverless](#Serverless)
+
+* [Software Development](#Software-Development)
+
+* [Unsorted](#Unsorted)
 
 ## Architecture
 
@@ -275,7 +302,7 @@ How to completely traverse a complex dictionary of unknown depth? - Stack Overfl
 
 
 
-## Unsorted (Different DevOps Tools and Tricks)
+## Unsorted
 
 gort/README.md at master · idestis/gort · GitHub [github.com](https://github.com/idestis/gort/blob/master/README.md)
 

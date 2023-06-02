@@ -32,15 +32,13 @@ Table of content:
 
 How Kafka and Redis Solve Stream-Processing Challenges – The New Stack [thenewstack.io](https://thenewstack.io/how-kafka-and-redis-solve-stream-processing-challenges/)
 
-How to create a financial marketplace for 500,000 people 💸. Part II (technical) [hackernoon.com](https://hackernoon.com/how-to-create-a-financial-marketplace-for-500-000-people-part-ii-technical-4d2456d9768d)
-
-Kubernetes Multi-Tenancy: Why Virtual Clusters Are The Best Solution | Loft Blog [loft.sh](https://loft.sh/blog/kubernetes-multi-tenancy-why-virtual-clusters-are-the-best-solution/)
-
 Manage AWS Accounts Using Control Tower Account Factory for Terraform | Terraform - HashiCorp Learn [learn.hashicorp.com](https://learn.hashicorp.com/tutorials/terraform/aws-control-tower-aft)
 
 5 patterns to make your microservice fault-tolerant [itnext.io](https://itnext.io/5-patterns-to-make-your-microservice-fault-tolerant-f3a1c73547b3)
 
 The Big Little Guide to Message Queues [sudhir.io](https://sudhir.io/the-big-little-guide-to-message-queues/)
+
+How to create a financial marketplace for 500,000 people 💸. Part II (technical) [hackernoon.com](https://hackernoon.com/how-to-create-a-financial-marketplace-for-500-000-people-part-ii-technical-4d2456d9768d)
 
 
 

@@ -14,7 +14,7 @@ Table of content:
 
 * [Kubernetes Operators and AddOns](#Kubernetes-Operators-and-AddOns)
 
-* [CI/CD and IaC](#CI/CD-and-IaC)
+* [CI/CD and IaC](#CICD-and-IaC)
 
 * [Observability](#Observability)
 
@@ -146,7 +146,7 @@ GitHub - AbsaOSS/k8gb: A cloud native Kubernetes Global Balancer [github.com](ht
 
 
 
-## CI/CD and IaC
+## CICD and IaC
 
 Flux from End-to-End | Flux [fluxcd.io](https://fluxcd.io/docs/flux-e2e/)
 

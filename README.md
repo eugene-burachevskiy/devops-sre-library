@@ -223,6 +223,8 @@ GitHub - AbsaOSS/k8gb: A cloud native Kubernetes Global Balancer [github.com](ht
 
 ## CICD and IaC
 
+OIDC with Terraform cloud [wolfe.id.au](https://www.wolfe.id.au/2023/07/17/stop-using-iam-user-credentials-with-terraform-cloud)
+
 Zero Downtime Server Updates For Your Kubernetes Cluster [blog.gruntwork.io](https://blog.gruntwork.io/zero-downtime-server-updates-for-your-kubernetes-cluster-902009df5b33)
 
 Flux from End-to-End | Flux [fluxcd.io](https://fluxcd.io/docs/flux-e2e/)

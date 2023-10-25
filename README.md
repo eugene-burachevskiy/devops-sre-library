@@ -306,6 +306,8 @@ GitHub - docker-slim/docker-slim: DockerSlim (docker-slim): Don't change anythin
 
 ## Observability
 
+Grafana Loki — Our journey on replacing Elastic Search [medium.com](https://medium.com/engenharia-arquivei/grafana-loki-our-journey-on-replacing-elastic-search-and-adopting-a-new-logging-solution-at-f65aec407e47)
+
 Deploying a Modern Monitoring Stack (Part 1) | by Caoimhe Harvey | Dev Genius [blog.devgenius.io](https://blog.devgenius.io/deploying-a-modern-monitoring-stack-part-1-5eb8ada105ba)
 
 How to Build an End to End Open Source Observability Solution on Kubernetes | by Eden Federman | Aug, 2022 | Medium [medium.com](https://medium.com/@edeNFed/how-to-build-an-end-to-end-open-source-observability-solution-on-kubernetes-c8725c016dd5)

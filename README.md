@@ -233,6 +233,8 @@ Real-World GitOps with Flux, Flagger, and Linkerd | Linkerd [linkerd.io](https:/
 
 Four Great Alternatives to HashiCorp’s Terraform Cloud | by Elliot Graebert | Jul, 2022 | Medium [medium.com](https://medium.com/@elliotgraebert/four-great-alternatives-to-hashicorps-terraform-cloud-6e0a3a0a5482)
 
+Blue/green deployments with Ingress rewrites [medium.com](https://medium.com/@a.j.abbott24/kubernetes-zero-downtime-release-pattern-942223d6bad3)
+
 Deploys at Slack - Several People Are Coding [slack.engineering](https://slack.engineering/deploys-at-slack-cd0d28c61701)
 
 20 Terraform Best Practices to Create Clean and Reusable Code | Contino | Global Transformation Consultancy [www.contino.io](https://www.contino.io/insights/terraform-best-practices)

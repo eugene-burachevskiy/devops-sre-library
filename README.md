@@ -62,6 +62,8 @@ Awesome Kubernetes Resources [github.com](https://github.com/tomhuang12/awesome-
 
 Awesome Prometheus alerts | Collection of alerting rules [awesome-prometheus-alerts.grep.to](https://awesome-prometheus-alerts.grep.to/)
 
+Awesome OpenTelemetry [github.com](https://github.com/magsther/awesome-opentelemetry)
+
 CHECKLIST - Kubernetes production best practices [learnk8s.io](https://learnk8s.io/production-best-practices)
 
 Kubernetes instance calculator [learnk8s.io](https://learnk8s.io/kubernetes-instance-calculator)

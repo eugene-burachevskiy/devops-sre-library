@@ -310,6 +310,8 @@ GitHub - docker-slim/docker-slim: DockerSlim (docker-slim): Don't change anythin
 
 ## Observability
 
+Grafana Loki - details archetecture and AWS setup [medium.com]https://itnext.io/grafana-loki-architecture-and-running-in-kubernetes-with-aws-s3-storage-and-boltdb-shipper-fbde1aea1b7c
+
 Grafana Loki — Our journey on replacing Elastic Search [medium.com](https://medium.com/engenharia-arquivei/grafana-loki-our-journey-on-replacing-elastic-search-and-adopting-a-new-logging-solution-at-f65aec407e47)
 
 Deploying a Modern Monitoring Stack (Part 1) | by Caoimhe Harvey | Dev Genius [blog.devgenius.io](https://blog.devgenius.io/deploying-a-modern-monitoring-stack-part-1-5eb8ada105ba)

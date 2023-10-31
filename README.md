@@ -538,3 +538,15 @@ GitHub - xo/usql: Universal command-line interface for SQL databases [github.com
 GitHub - readysettech/readyset: ReadySet is a lightweight SQL caching engine written in Rust that helps developers enhance the performance and scalability of existing applications. [github.com](https://github.com/readysettech/readyset)
 
 GitHub - kellyjonbrazil/jc: CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts. [github.com](https://github.com/kellyjonbrazil/jc)
+
+
+## Bonus: Baremetal K8S
+
+Part I: Talos on Hetzner: [datavirke.dk](https://datavirke.dk/posts/bare-metal-kubernetes-part-1-talos-on-hetzner)
+Part II: Cilium CNI & Firewalls: [datavirke.dk](https://datavirke.dk/posts/bare-metal-kubernetes-part-2-cilium-and-firewalls)
+Part III: Encrypted GitOps with FluxCD: [datavirke.dk](https://datavirke.dk/posts/bare-metal-kubernetes-part-3-encrypted-gitops-with-fluxcd)
+Part IV: Ingress, DNS and Certificates: [datavirke.dk](https://datavirke.dk/posts/bare-metal-kubernetes-part-4-ingress-dns-certificates)
+Part V: Scaling Out: [datavirke.dk](https://datavirke.dk/posts/bare-metal-kubernetes-part-5-scaling-out/)
+Part VI: Persistent Storage with Rook Ceph: [datavirke.dk](https://datavirke.dk/posts/bare-metal-kubernetes-part-6-persistent-storage-with-rook-ceph)
+Part VII: Private Registry with Harbor: [datavirke.dk](https://datavirke.dk/posts/bare-metal-kubernetes-part-7-private-registry-with-harbor)
+Part VIII: Containerizing our Work Environment: [datavirke.dk](https://datavirke.dk/posts/bare-metal-kubernetes-part-8-containerizing-our-work-environment)
